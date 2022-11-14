@@ -34,7 +34,7 @@ The Amplify Console will fork this repo in your GitHub account, and then build a
   amplify pull
   ```
 
-![img](src/images/amplify-pull.mov)
+<video src="./src/images/amplify-pull.mov"></video>
 
 4. Run locally
 
